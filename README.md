@@ -45,8 +45,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-tawny-38.vercel.app/api?username=cattolation&theme=onedark&show_icons=true&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
-  <img width="12" />
+  <img src="https://github-readme-stats-sigma-tawny-38.vercel.app/api?username=cattolation&theme=onedark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
+</div>
+
+###
+
+<h3 align="left">cattolation@GitHub:~> Most Used Languages</h3>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats-sigma-tawny-38.vercel.app/api/top-langs?username=cattolation&theme=onedark&layout=donut&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
 </div>
 

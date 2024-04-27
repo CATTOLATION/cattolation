@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Tay Gao Jun, Cybersecurity Student at Ngee Ann Polytechnic.<br><br>My fascination with Information technology began with my appointment as a Cyber Wellness Ambassador in my Primary and Secondary school years.<br>Soon I extended my exposure and repertoire of skill sets as a backstage crew in my Secondary school.<br>Each time I gain experience and valuable cybersecurity skills, it brings me joy and excitement, primarily through collaborative penetration testing and ethical hacking.<br>With the knowledge and expertise gained, I strongly believe in leveraging them to contribute back to the community in developing fellow youths and raising the awareness and interest towards Cybersecurity.</p>
+<p align="left">I'm Tay Gao Jun, Cybersecurity Graduate from Ngee Ann Polytechnic.<br><br>My fascination with Information technology began with my appointment as a Cyber Wellness Ambassador in my Primary and Secondary school years.<br>Soon I extended my exposure and repertoire of skill sets as a backstage crew in my Secondary school.<br>Each time I gain experience and valuable cybersecurity skills, it brings me joy and excitement, primarily through collaborative penetration testing and ethical hacking.<br>With the knowledge and expertise gained, I strongly believe in leveraging them to contribute back to the community in developing fellow youths and raising the awareness and interest towards Cybersecurity.</p>
 
 ###
 

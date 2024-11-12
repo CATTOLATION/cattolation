@@ -25,10 +25,12 @@
 
 <p align="left">
 Hi, I'm Tay Gao Jun.
-  
-As a graduate holding a Diploma in Cybersecurity and Digital Forensics from Ngee Ann Polytechnic, I've been passionate about IT security since my days as a Cyber Wellness Ambassador. My academic and practical experiences, particularly in penetration testing and ethical hacking, have equipped me with a solid foundation in cybersecurity.
 
-I am deeply committed to lifelong learning and to using my skills for the betterment of the community. I believe that there's always room for growth and education in our professional journeys, and I am eager to contribute to the advancement of cybersecurity awareness and knowledge.
+As a cybersecurity professional who recently graduated from Ngee Ann Polytechnic with a Diploma in Cybersecurity and Digital Forensics, I bring both technical expertise and a genuine passion for protecting digital assets. My journey in cybersecurity began during my role as a Cyber Wellness Ambassador, where I discovered my calling in this field.
+
+Through hands-on experience in penetration testing and ethical hacking, I've developed a comprehensive understanding of cybersecurity principles and their real-world applications. What drives me is not just the technical challenges, but the opportunity to make a meaningful impact in an increasingly connected world.
+
+I firmly believe that the cybersecurity landscape is constantly evolving, and so should we. This mindset has shaped my approach to professional development, where I actively seek opportunities to grow and share knowledge with others in the community.
 </p>
 
 ###

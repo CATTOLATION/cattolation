@@ -56,7 +56,7 @@ I firmly believe that the cybersecurity landscape is constantly evolving, and so
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-three-tau-35.vercel.app/api?username=cattolation&theme=onedark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
+  <img src="https://github-readme-stats-pi-plum.vercel.app/api?username=cattolation&theme=onedark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
 </div>
 
 ###
@@ -66,7 +66,7 @@ I firmly believe that the cybersecurity landscape is constantly evolving, and so
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-three-tau-35.vercel.app/api/top-langs?username=cattolation&theme=onedark&layout=donut&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
+  <img src="https://github-readme-stats-pi-plum.vercel.app/api/top-langs?username=cattolation&theme=onedark&layout=donut&exclude_repo=DL-Assignment-1,DL-Assignment-2" />
 </div>
 
 ###

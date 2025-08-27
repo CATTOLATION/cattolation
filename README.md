@@ -26,13 +26,13 @@
 <h3 align="left">cattolation@GitHub:~$ About Me</h3>
 
 <p align="left">
-  As a cybersecurity professional who recently graduated from Ngee Ann Polytechnic with a Diploma in Cybersecurity and Digital Forensics, I bring both technical expertise and a genuine passion for protecting digital assets. My journey in cybersecurity began during my role as a Cyber Wellness Ambassador, where I discovered my calling in this field.
+  Hi, I’m Tay Gao Jun.
 </p>
 <p align="left">
-  Through hands-on experience in penetration testing and ethical hacking, I've developed a comprehensive understanding of cybersecurity principles and their real-world applications. What drives me is not just the technical challenges, but the opportunity to make a meaningful impact in an increasingly connected world.
+	My interest in cybersecurity began in secondary school, when I served as a Cyber Wellness Ambassador and discovered the importance of safeguarding digital spaces. This early experience led me to pursue and complete a Diploma in Cybersecurity & Digital Forensics at Ngee Ann Polytechnic, where I gained hands-on exposure to areas such as penetration testing, ethical hacking, and network security.
 </p>
 <p align="left">
-  I firmly believe that the cybersecurity landscape is constantly evolving, and so should we. This mindset has shaped my approach to professional development, where I actively seek opportunities to grow and share knowledge with others in the community.
+	I’m motivated by the opportunity to contribute to a safer digital environment and believe in continuous learning to keep pace with the evolving cybersecurity landscape.
 </p>
 
 <br />
